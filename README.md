@@ -5,11 +5,11 @@ A simple application to request HTTP POST/PUT from a desinated server.
 
 Result is heavily rely on the internet connection stability.
 
-## Usage
-run `python http-challenge.py`
+## Run
+`python http-challenge.py`
 
 ## Requirement
-[pause](https://pypi.org/project/pause/)
+[jgillick/python-pause](https://github.com/jgillick/python-pause)
 
 ## Author
 Daniel "Realive" Huang
