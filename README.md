@@ -8,6 +8,8 @@ Result is heavily rely on the internet connection stability.
 ## Usage
 run `python http-challenge.py`
 
+## Requirement
+[pause](https://pypi.org/project/pause/)
 
 ## Author
 Daniel "Realive" Huang
