@@ -1,9 +1,8 @@
 # http-challenge
-A simple application to request HTTP POST/PUT from a desinated server.
+A simple application to request HTTP POST/PUT of a desinated server.
 
-::: warning :::
-
-Result is heavily rely on the internet connection stability.
+**Warning**
+Result is heavily rely on the internet connection stability. It is highly recommend to run this program with a high-speed internet enviorment.
 
 ## Run
 `python http-challenge.py`
